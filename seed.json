@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "exportedAt": "2024-01-01T00:00:00.000Z",
+  "transactions": [
+    {
+      "id": "seed_1",
+      "description": "University Textbooks",
+      "amount": 125.50,
+      "category": "Books",
+      "date": "2024-01-15",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": "seed_2",
+      "description": "Monthly Bus Pass",
+      "amount": 45.00,
+      "category": "Transport",
+      "date": "2024-01-10",
+      "createdAt": "2024-01-10T08:15:00.000Z",
+      "updatedAt": "2024-01-10T08:15:00.000Z"
+    },
+    {
+      "id": "seed_3",
+      "description": "Coffee with Friends",
+      "amount": 12.75,
+      "category": "Food",
+      "date": "2024-01-08",
+      "createdAt": "2024-01-08T14:20:00.000Z",
+      "updatedAt": "2024-01-08T14:20:00.000Z"
+    },
+    {
+      "id": "seed_4",
+      "description": "Movie Tickets",
+      "amount": 24.00,
+      "category": "Entertainment",
+      "date": "2024-01-05",
+      "createdAt": "2024-01-05T19:45:00.000Z",
+      "updatedAt": "2024-01-05T19:45:00.000Z"
+    },
+    {
+      "id": "seed_5",
+      "description": "Student Union Fee",
+      "amount": 60.00,
+      "category": "Fees",
+      "date": "2024-01-02",
+      "createdAt": "2024-01-02T09:00:00.000Z",
+      "updatedAt": "2024-01-02T09:00:00.000Z"
+    },
+    {
+      "id": "seed_6",
+      "description": "Groceries",
+      "amount": 85.25,
+      "category": "Food",
+      "date": "2024-01-12",
+      "createdAt": "2024-01-12T16:30:00.000Z",
+      "updatedAt": "2024-01-12T16:30:00.000Z"
+    },
+    {
+      "id": "seed_7",
+      "description": "Online Course",
+      "amount": 99.99,
+      "category": "Books",
+      "date": "2024-01-18",
+      "createdAt": "2024-01-18T11:20:00.000Z",
+      "updatedAt": "2024-01-18T11:20:00.000Z"
+    },
+    {
+      "id": "seed_8",
+      "description": "Taxi Ride",
+      "amount": 18.50,
+      "category": "Transport",
+      "date": "2024-01-20",
+      "createdAt": "2024-01-20T22:10:00.000Z",
+      "updatedAt": "2024-01-20T22:10:00.000Z"
+    },
+    {
+      "id": "seed_9",
+      "description": "Gym Membership",
+      "amount": 35.00,
+      "category": "Health",
+      "date": "2024-01-22",
+      "createdAt": "2024-01-22T07:00:00.000Z",
+      "updatedAt": "2024-01-22T07:00:00.000Z"
+    },
+    {
+      "id": "seed_10",
+      "description": "Netflix Subscription",
+      "amount": 15.99,
+      "category": "Entertainment",
+      "date": "2024-01-25",
+      "createdAt": "2024-01-25T12:00:00.000Z",
+      "updatedAt": "2024-01-25T12:00:00.000Z"
+    },
+    {
+      "id": "seed_11",
+      "description": "Pizza Delivery",
+      "amount": 28.50,
+      "category": "Food",
+      "date": "2024-01-27",
+      "createdAt": "2024-01-27T20:15:00.000Z",
+      "updatedAt": "2024-01-27T20:15:00.000Z"
+    }
+  ],
+  "metadata": {
+    "count": 11,
+    "totalAmount": 550.48,
+    "categories": {
+      "Books": 2,
+      "Transport": 2,
+      "Food": 3,
+      "Entertainment": 2,
+      "Fees": 1,
+      "Health": 1
+    }
+  }
+}
