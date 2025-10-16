@@ -246,5 +246,5 @@ Please attribute appropriately when using or modifying this project.
 
 ## Support
 
-* GitHub: [github.com/darlene](https://github.com/darlene)
+* GitHub: [github.com/Darlene250](https://github.com/Darlene250)
 * Email: [d.ayinkamiy@alustudent.com](mailto:d.ayinkamiy@alustudent.com)
